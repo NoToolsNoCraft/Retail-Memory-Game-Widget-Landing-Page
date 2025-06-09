@@ -1,1 +1,1 @@
-Live link: https://notoolsnocraft.github.io/L-Oreal-Memory-Game-Widget/
+Live link: https://notoolsnocraft.github.io/weekly-invitation-counter/
